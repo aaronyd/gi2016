@@ -47,6 +47,8 @@ h6 {
   padding-bottom: 60px;
 }
 
+.
+
 
 /* =============================================================
    HEADER SECTION STYLES
@@ -141,6 +143,15 @@ header {
 
 #poster-link {
   font-size: 90%
+}
+
+#keynote p {
+  font-size: 95%;
+  line-height: 18px;
+}
+
+.href-color {
+  color: #488AC7;
 }
 
 
